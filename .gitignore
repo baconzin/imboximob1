@@ -1,3 +1,7 @@
 serve-static.sh
 *.log
 .DS_Store
+-e 
+# Environment files
+*.env
+*.env.*
